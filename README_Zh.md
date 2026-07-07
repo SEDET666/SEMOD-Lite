@@ -5,7 +5,7 @@
 **逃离后室 Escape the Backrooms 的轻量级开源模组菜单。**  
 解除原版 4 人房间限制，支持最高 16 人联机，并提供地图、Actor、玩家、设置等实用功能。
 
-[English](https://github.com/SEDET666/ETB-SEDET-MOD-MENU/blob/main/README.md) | [中文](https://github.com/SEDET666/ETB-SEDET-MOD-MENU/blob/main/README_Zh.md)
+[English](https://github.com/SEDET666/SEMOD-Lite/blob/main/README.md) | [中文](https://github.com/SEDET666/SEMOD-Lite/blob/main/README_Zh.md)
 
 ![项目](https://img.shields.io/badge/SEMOD-Lite-brightgreen.svg)
 ![游戏](https://img.shields.io/badge/Game-Escape%20the%20Backrooms-blue.svg)
