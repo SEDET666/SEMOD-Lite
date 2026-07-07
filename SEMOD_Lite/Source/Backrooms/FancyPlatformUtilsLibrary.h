@@ -1,0 +1,19 @@
+// Fill out your copyright notice in the Description page of Project Settings.
+
+#pragma once
+
+#include "CoreMinimal.h"
+#include "Kismet/BlueprintFunctionLibrary.h"
+#include "FancyPlatformUtilsLibrary.generated.h"
+
+/**
+ * 
+ */
+UCLASS()
+class BACKROOMS_API UFancyPlatformUtilsLibrary : public UBlueprintFunctionLibrary
+{
+	GENERATED_BODY()
+public:
+	UFUNCTION(BlueprintCallable, Category = "Platform Utilities")
+	static FString GetGameVersion();
+};
