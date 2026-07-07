@@ -5,7 +5,7 @@
 **A lightweight open-source mod menu for Escape the Backrooms.**  
 Unlock the 4-player limit, create up to 16-player rooms, and use practical in-game tools from a simple F3 menu.
 
-[中文](https://github.com/SEDET666/ETB-SEDET-MOD-MENU/blob/main/README_Zh.md) | [English](https://github.com/SEDET666/ETB-SEDET-MOD-MENU/blob/main/README.md)
+[中文](https://github.com/SEDET666/SEMOD-Lite/blob/main/README_Zh.md) | [English](https://github.com/SEDET666/SEMOD-Lite/blob/main/README.md)
 
 ![Project](https://img.shields.io/badge/SEMOD-Lite-brightgreen.svg)
 ![Game](https://img.shields.io/badge/Game-Escape%20the%20Backrooms-blue.svg)
